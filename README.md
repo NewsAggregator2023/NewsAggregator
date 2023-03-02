@@ -19,7 +19,7 @@ Stay tuned
 - [Problematization analysis](Documentation/Project/problematization.md)
 - [Stakeholder analysis](Documentation/Project/stakeholderAnalysis.md)
 - [Statement of work](Documentation/Project/Todo)
-- [Team charter](Documentation/Management/teamCharter.md)
+- [Team charter](https://docs.google.com/document/d/1fU_ir5okwzwI3wmi0slx1HT2Y_UqshUJ-BcbwRBbxNQ/edit?usp=sharing)
 - [Management tool guide](Documentation/Management/managementTool.md)
 - [Decision Making Process](Documentation/Management/decisionMaking.md)
 - [Redmine project description](Documentation/Project/redmineDescription.md)
