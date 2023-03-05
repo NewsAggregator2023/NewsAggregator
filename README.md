@@ -15,7 +15,7 @@ Stay tuned
 
 ## File Directory
 - [Meetings](Documentation/Meetings/README.md)
-- [Blogs](Documentation/Blogs/blogs.md)
+- [Blogs](Documentation/Blogs/README.md)
 - [Problematization analysis](Documentation/Project/problematization.md)
 - [Stakeholder analysis](Documentation/Project/stakeholderAnalysis.md)
 - [Statement of work](Documentation/Project/Todo)
