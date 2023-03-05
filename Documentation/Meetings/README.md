@@ -1,4 +1,4 @@
 # Meetings
-- [Agendas](agendas.md)
-- [Meeting minutes](meetingMinutes.md)
-- [Elevator Pitches](elevatorPitches.md)
+- [Agendas](Documentation/Meetings/Agendas/README.md)
+- [Meeting minutes](Documentation/Meetings/meetingMinutes/README.md)
+- [Elevator Pitches](Documentation/Meetings/elevatorPitches.md)
