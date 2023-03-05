@@ -1,6 +1,6 @@
 # Problematization Analysis
 - [Project Client Map](ToDo)
-- [Empathy Map Canvas](ToDo)
+- [Empathy Map Canvas](EmpathyMapCanvas.png)
 - [Value Proposition Canvas](valueProposition.png)
 - [SWOT Analysis](ToDo)
 
