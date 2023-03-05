@@ -16,7 +16,7 @@ Stay tuned
 ## File Directory
 - [Meetings](Documentation/Meetings/README.md)
 - [Blogs](Documentation/Blogs/README.md)
-- [Problematization analysis](Documentation/Project/Problematization/problematization.md)
+- [Problematization analysis](Documentation/Project/Problematization/README.md)
 - [Stakeholder analysis](Documentation/Project/stakeholderAnalysis/README.md)
 - [Statement of work](Documentation/Project/Todo)
 - [Team charter](https://docs.google.com/document/d/1fU_ir5okwzwI3wmi0slx1HT2Y_UqshUJ-BcbwRBbxNQ/edit?usp=sharing)
