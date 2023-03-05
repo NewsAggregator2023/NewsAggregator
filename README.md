@@ -1,6 +1,6 @@
 # NewsAggregator Techlauncher 2023
 
-Welcome to the NewsAggregator techlauncher landing page!
+Welcome to the NewsAggregator techlauncher landing page! We have included links to most of the key components that should help you navigate, but if you experience any trouble the folder system should be easy to navigate.
 
 ## Sales Pitch
 
@@ -17,7 +17,7 @@ Stay tuned
 - [Meetings](Documentation/Meetings/README.md)
 - [Blogs](Documentation/Blogs/README.md)
 - [Problematization analysis](Documentation/Project/Problematization/problematization.md)
-- [Stakeholder analysis](Documentation/Project/stakeholderAnalysis.md)
+- [Stakeholder analysis](Documentation/Project/stakeholderAnalysis/README.md)
 - [Statement of work](Documentation/Project/Todo)
 - [Team charter](https://docs.google.com/document/d/1fU_ir5okwzwI3wmi0slx1HT2Y_UqshUJ-BcbwRBbxNQ/edit?usp=sharing)
 - [Management tool guide](Documentation/Management/managementTool.md)
