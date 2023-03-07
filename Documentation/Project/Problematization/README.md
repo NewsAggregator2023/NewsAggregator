@@ -1,5 +1,5 @@
 # Problematization Analysis
-- [Project Client Map](PCM.png)
+- [Project Client Map](PCM.jpeg)
 - [Empathy Map Canvas](empathyMapCanvas.png)
 - [Value Proposition Canvas](valueProposition.png)
 - [SWOT Analysis](SWOTAnalysis.md)
