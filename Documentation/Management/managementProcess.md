@@ -58,19 +58,19 @@ We will manage risks by __treating them as tasks that need regular attention__ a
 
 1. A risk is discovered
 2. A risk task is created under the risks epic
-  + Short description
-  + Assignee
-  + Link to 3.
+   + Short description
+   + Assignee
+   + Link to 3.
 3. A markdown file is generated addressing that risk
-  + Description
-  + Relevant stakeholders (and impact)
-  + Assignee
-  + Trigger (what causes it to become a problem)
-  + Symptom/cause
-  + Possible Actions
-  + Approaches from the hierarchy of control (elimination, substitution, isolation, process)
-  + Implications/ new risks
-  + Log of decisions (decision, date, who was responsible, monitoring needed)
+   + Description
+   + Relevant stakeholders (and impact)
+   + Assignee
+   + Trigger (what causes it to become a problem)
+   + Symptom/cause
+   + Possible Actions
+   + Approaches from the hierarchy of control (elimination, substitution, isolation, process)
+   + Implications/ new risks
+   + Log of decisions (decision, date, who was responsible, monitoring needed)
 4. Risk is treated as a task (following general scrum statuses)
 5. Once completed, is moved to the icebox if it may need more attention or done if fully resolved
 
@@ -79,19 +79,19 @@ To enable our team to grow and improve our processes, we are using a central loc
 
 1. Feedback received
 2. A management task is created under the management epic
-  + Short description
-  + Who provided it
-  + Assignees
-  + Link to 3.
+   + Short description
+   + Who provided it
+   + Assignees
+   + Link to 3.
 3. A markdown file is generated addressing the feedback/reflection
-  + Description
-  + Who provided it
-  + Relevant stakeholders (and impact)
-  + Assignees
-  + Possible Actions
-  + Benefits/detriments
-  + Risks created
-  + Log of decisions about feedback (decision, date, who was responsible, monitoring needed)
+   + Description
+   + Who provided it
+   + Relevant stakeholders (and impact)
+   + Assignees
+   + Possible Actions
+   + Benefits/detriments
+   + Risks created
+   + Log of decisions about feedback (decision, date, who was responsible, monitoring needed)
 4. Actioning is treated as a task (following general scrum statuses)
 5. Once completed, is moved to the done status if fully resolved
 # Version control/CI/automated testing:
