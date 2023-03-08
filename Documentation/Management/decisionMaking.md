@@ -1,2 +1,0 @@
-# Decison Making Process
-Todo
