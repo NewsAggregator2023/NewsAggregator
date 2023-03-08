@@ -1,5 +1,7 @@
 # Suggestions and Feedback
 
+- [Tutorial confllict](tutorialConflict.md)
+
 Here is the template text for these issues:
 
 # Title
