@@ -28,5 +28,5 @@ Moving into week 3, we have started drafting our SoW and setting up our manageme
 - [Stakeholder analysis](Documentation/Project/stakeholderAnalysis.md)
 - [Statement of work](https://docs.google.com/document/d/16LNCY0NLzgqxnEo-Erzb1iC24lyIDh1u2_4_K2lC5pg/edit?usp=sharing)
 - [Team charter](https://docs.google.com/document/d/1fU_ir5okwzwI3wmi0slx1HT2Y_UqshUJ-BcbwRBbxNQ/edit?usp=sharing)
-- [Project Management Processes](Documentation/Management/managementTool.md)
+- [Project Management Processes](Documentation/Management/managementProcess.md)
 - [Redmine project description](Documentation/Project/redmineDescription.md)
