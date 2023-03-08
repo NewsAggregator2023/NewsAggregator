@@ -11,7 +11,15 @@ How often do you find yourself sailing the vast sea of news, wondering how long 
 Using machine learning, NewsAggregator is your "news in a can". Take it where you want to go and relax knowing the up-to-date news won't bulk you down. Be provided with generative pictures in a style for you, whether the texture of broadsheet or quirky like flintstone. 
 
 ## Weekly blog
-Stay tuned
+This week saw us form as a team and begin our techlauncher journey together. We started by organising a meeting with a fun icebreaker and then proceeded to introduce ourselves and identify what each member hopes to gain in this project. We also discussed the general structure of techlauncher to help facilitate new team members. 
+
+Unfortunately, we lost one of our team members because they were unable to attend the tutorial spot and we were unable to arrange a swap with another group. We have chosen Xianglong as our new spokesperson and are communicating with a student who may be interested in joining our project. 
+
+We have started discussing team processes and roles. In particular, we are planning a mix of Scrum, XP and Kanban, with an emphasis on ensuring that our project is as easy as possible to manage. To accommodate this, we plan to utilise templates, workflows and pipelines, though we may need to delay setting these up to focus on more important aspects. This is being recorded in our team charter. 
+
+We have also commenced problematization and stakeholder analysis, though we have organised a meeting with our client to walk through more of what the project aims to achieve and what the system currently looks like. 
+
+Moving into week 3, we have started drafting our SoW and setting up our management tool within GitHub as we continue discussions with our client. 
 
 ## File Directory
 - [Meetings](Documentation/Meetings/README.md)
@@ -20,6 +28,5 @@ Stay tuned
 - [Stakeholder analysis](Documentation/Project/stakeholderAnalysis.md)
 - [Statement of work](https://docs.google.com/document/d/16LNCY0NLzgqxnEo-Erzb1iC24lyIDh1u2_4_K2lC5pg/edit?usp=sharing)
 - [Team charter](https://docs.google.com/document/d/1fU_ir5okwzwI3wmi0slx1HT2Y_UqshUJ-BcbwRBbxNQ/edit?usp=sharing)
-- [Management tool guide](Documentation/Management/managementTool.md)
-- [Decision Making Process](Documentation/Management/decisionMaking.md)
+- [Project Management Processes](Documentation/Management/managementTool.md)
 - [Redmine project description](Documentation/Project/redmineDescription.md)
