@@ -9,3 +9,15 @@
 |ML/generative quality assurance|A, B.2, B.4, B.5|All| Have a human checker, AI checker which is aware of concerns. |
 |Project gets discontinued| All | All | Ensure team develops a good relationship and is aware of any external project changes|
 |Poor output quality|All|All|Have a quality checker|
+
+
+Risk template:
+Description
+Relevant stakeholders (and impact)
+Assignee
+Trigger (what causes it to become a problem)
+Symptom/cause
+Possible Actions
+Approaches from the hierarchy of control (elimination, substitution, isolation, process)
+implications/ new risks
+Log of decisions (decision, date, who was responsible, monitoring needed)
