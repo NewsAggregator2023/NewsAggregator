@@ -5,15 +5,15 @@ Relevant stakeholders: Team, Client, Techlauncher
 Assignees: Isaac
 
 Description: 
-+ The allocated tutorial time had a conflict. This was due to the selected time having a rating of 'good' despite having an unresolvable conflict. 
-+ The process we used to determine which time was most suitable was by ranking how many conflicts each tutorial time had. 
-+ This treated each conlict equally which was not the case. The binary available/unavailable was convenient to fill but not each conflict was equal. 
-+ For the preferences, each tutorial option received a value based on how many conflicts it had, which was normalised between very good and very bad. 
-+ As there was only one option with no conflicts and three with only one, these were the top four preferences. 
-+ Since we had limited availability for everyone, we ensured that tutorial spots were ranked so that we were not allocated to a worse spot if we could not get allocated to out top 4. 
-+ (ie, we tried to make rank the options to be as informative as possible if we didn't get our top 4).
-+ However, this meant the spot we were given had a 'good' description which didn't match the reality.
-+ This meant that the member with the conflict was not able to attend the given tutorial.
+> The allocated tutorial time had a conflict. This was due to the selected time having a rating of 'good' despite having an unresolvable conflict. 
+> The process we used to determine which time was most suitable was by ranking how many conflicts each tutorial time had. 
+> This treated each conlict equally which was not the case. The binary available/unavailable was convenient to fill but not each conflict was equal. 
+> For the preferences, each tutorial option received a value based on how many conflicts it had, which was normalised between very good and very bad. 
+> As there was only one option with no conflicts and three with only one, these were the top four preferences. 
+> Since we had limited availability for everyone, we ensured that tutorial spots were ranked so that we were not allocated to a worse spot if we could not get allocated to out top 4. 
+> (ie, we tried to make rank the options to be as informative as possible if we didn't get our top 4).
+> However, this meant the spot we were given had a 'good' description which didn't match the reality.
+> This meant that the member with the conflict was not able to attend the given tutorial.
 
 Possible Actions:
 Organise to swap tutorial times with another team
