@@ -4,7 +4,8 @@ Welcome to the NewsAggregator techlauncher landing page! We have included links 
 
 
 We are using Zenhub as our project managemnt tool:
-The link to install the zenhub chrome extension is available [here](https://chrome.google.com/webstore/detail/zenhub-for-github/ogcgkffhplmphkaahpmffcafajaocjbd) 
+The link to install the zenhub chrome extension is available [here](https://chrome.google.com/webstore/detail/zenhub-for-github/ogcgkffhplmphkaahpmffcafajaocjbd).
+Once it is installed, there will be a zenhub tab within github.
 
 Alternatively, you can access zenhub [here](https://app.zenhub.com/workspaces/newsaggregator2023-63fe89c536203f0029bb69c7/board)
 
