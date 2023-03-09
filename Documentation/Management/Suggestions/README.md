@@ -2,6 +2,7 @@
 
 - [Tutorial confllict](tutorialConflict.md)
 
+"""
 Here is the template text for these issues:
 
 # Title
@@ -23,3 +24,4 @@ Possible Actions:
 
 Log of decisions about feedback (decision, date, who was responsible, outcome):
 - 
+"""
