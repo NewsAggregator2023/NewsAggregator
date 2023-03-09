@@ -1,4 +1,4 @@
-# Suggestions and Feedback
+# Suggestions, feedback and reflection
 
 - [Tutorial confllict](tutorialConflict.md)
 
