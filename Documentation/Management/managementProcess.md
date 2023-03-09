@@ -27,14 +27,13 @@ Scrum traditionally includes various statuses to show the progress of individual
 In addition to completion statuses, we will have labels for identifying what the task refers to (some labels are derived from extreme programming concepts). 
 These will include:
 + __Documentation__: Any form of documentation
-+ __Enhancement__: A new feature proposed by the client
++ __Feature__: a desired project output to be developed
 + __Bug__: A defect in the code or any issue with an output (e.g valid/complete documents)
-+ __Testing__: Indicating a test is needed
-+ __Question__: A question or clarification directed to be answered over a longer duration
-+ __Refactor__: Indicating code is being modified to improve quality
-+ __Help Wanted__: Request help for a task
-+ __Management__: Any management process, including any process improvements or feedback to action
++ __Help wanted/question__: Indicating that someone desires someones time for assistance
++ __Technical Debt__: Indicating a TD issue to be addressed
++ __Management__: Any management process, including any process improvements and feedback to action
 + __Risk__: A potential risk for the project
++ __Architecture__: Indicating a decision about the architecture of the code (non-feature based code improvements)
 
 ## eXtreme Programming:
 Extreme programming is a “__lightweight__” agile methodology that focuses on “taking agile to the extreme”. It is defined by the principles of __simplicity, rapid feedback, quality, collective understanding, iterative development and good work conditions__. It achieves this by __pair programming, test-driven development, constant refactoring and addressing technical debt and on-site customers__. 
