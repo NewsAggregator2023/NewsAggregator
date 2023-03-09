@@ -12,12 +12,22 @@
 
 
 Risk template:
-Description
-Relevant stakeholders (and impact)
-Assignee
-Trigger (what causes it to become a problem)
-Symptom/cause
-Possible Actions
-Approaches from the hierarchy of control (elimination, substitution, isolation, process)
-implications/ new risks
-Log of decisions (decision, date, who was responsible, monitoring needed)
+
+Description:
+> 
+Relevant stakeholders (and impact):
+> 
+Assignee:
+> 
+Trigger (what causes it to become a problem):
+> 
+Symptom/cause:
+> 
+## Possible Actions
+Name:
+> 
+Approaches from the hierarchy of control (elimination, substitution, isolation, process):
+> 
+implications/ new risks:
+> 
+Log of decisions (decision, date, who was responsible, monitoring needed):
