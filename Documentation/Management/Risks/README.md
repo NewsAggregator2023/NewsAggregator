@@ -17,6 +17,8 @@ Description:
 > 
 Relevant stakeholders (and impact):
 > 
+Relevant goals: 
+> 
 Assignee:
 > 
 Trigger (what causes it to become a problem):
