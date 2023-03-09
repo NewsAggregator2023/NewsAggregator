@@ -5,17 +5,15 @@ Relevant stakeholders (and impact):
 + Sources: Threatened by our aggregator, loss of royalties and potentially copyright concerns for them.
 + Tom: Has to deal with legal ramifications including legal costs, public image and fixing application.
 
-Relevant goals: 
-> B, B.1, B.1.3
+Relevant goals: B, B.1, B.1.3
 
-Assignee:
-> Whole team and Client
+Assignee:Whole team and Client
 
-Trigger (what causes it to become a problem):
-> An image with copyright protection is released on the news aggregator platform
+Triggers (what causes it to become a problem):
++ An image with copyright protection is released on the news aggregator platform
 
 Symptom/cause:
-> Insufficient methods were undertaken to ensure program is copyright compliant
++ Insufficient methods were undertaken to ensure program is copyright compliant
 
 ## Possible Actions
 Name: Use copyright free images
