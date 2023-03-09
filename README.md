@@ -2,6 +2,11 @@
 
 Welcome to the NewsAggregator techlauncher landing page! We have included links to most of the key components that should help you navigate, but if you experience any trouble the folder system should be easy to navigate.
 
+
+We are using Zenhub as our project managemnt tool:
+The link to install the zenhub chrome extension is available [here](https://chrome.google.com/webstore/detail/zenhub-for-github/ogcgkffhplmphkaahpmffcafajaocjbd) 
+Alternatively, you can access zenhub [here](https://app.zenhub.com/workspaces/newsaggregator2023-63fe89c536203f0029bb69c7/board)
+
 ## Sales Pitch
 
 NewsAggregator aims to produce a news outlet which collects news into one convenient and personable platform.
