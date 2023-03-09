@@ -52,4 +52,4 @@ implications/ new risks:
 + Can safely be used while implementing other approaches
 
 Log of decisions (decision, date, who was responsible, monitoring needed):
-Don't release platform to public
+Don't release platform to public, 2022, past team, regularly
