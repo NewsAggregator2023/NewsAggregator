@@ -38,4 +38,5 @@ Moving into week 3, we have started drafting our SoW and setting up our manageme
 - [Project Management Processes](Documentation/Management/managementProcess.md)
 - [Risk Register](Documentation/Management/Risks/README.md)
 - [Suggestions, feedback and reflection](Documentation/Management/Suggestions/README.md)
+- [Shared folder](https://drive.google.com/drive/folders/10ADOtk4ifQSlyqueL8odDeG8NGkzdCkm?usp=sharing)
 - [Redmine project description](Documentation/Project/redmineDescription.md)
